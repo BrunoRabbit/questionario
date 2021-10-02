@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# questionario
-=======
+
 # Questionario
 
 This simple App is for course study application on the Udemy platform
