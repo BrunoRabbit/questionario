@@ -1,0 +1,4 @@
+#Fri Jan 12 15:01:49 BRT 2024
+base.0=C\:\\Users\\bruno\\projects\\flutter\\questionario\\questionario\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
